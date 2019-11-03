@@ -1,11 +1,17 @@
 # CS241-SOFTWARE-ENGINEERING-G-3
-IIT Patna Automation System ,spring Semester software lab project 
+IIT Patna Automation System ,Spring semester software lab project
 
-Hello testing mode
-hi rajbir
+# Members
+Rajbir
+
 Parikshit Saraswat
+
 Ankit choudhary
+
 Rajbir Singh
+
 Devansh Gupta
+
 Vishal chauhan
+
 Himanshu Parmar
